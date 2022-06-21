@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6672821.svg)](https://doi.org/10.5281/zenodo.6672821)
-
 <a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
 
 <br>
@@ -8,9 +6,9 @@
 
 # [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)
 
-Oliveira, R. (2020). **Deep Learning I: Modelos Sequenciais e Autoencoders**. (pp. 1–226). eBook. https://doi.org/10.5281/zenodo.6672821. 
+Oliveira, R. (2020). **Deep Learning I: Modelos Sequenciais e Autoencoders**. (pp. 1–226). eBook. https://doi.org/10.5281/zenodo.6675400. 
 
-Para acesso ao conteúdo clique nos Capítulos, no Título, ou acesse aqui.
+*Para acesso ao conteúdo clique nos Capítulos, no Título, ou acesse* [aqui](https://github.com/Rogerio-mack/Deep-Learning-I).
 
 <br> 
 
