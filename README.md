@@ -32,16 +32,16 @@ Para que tenha uma ideia geral dos conteúdos desta componente, segue abaixo os 
 
 * [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
 
-* [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
 
-* [Tensores, GPU, AutoGrad e Grafos de Execução](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [Tensores, GPU, AutoGrad e Grafos de Execução](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb)
 
-* [Modelos Sequenciais e Classificação com TensorFlow](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [Modelos Sequenciais e Classificação com TensorFlow](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T4.ipynb)
 
-* [Regressão e Regularização de Modelos](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [Regressão e Regularização de Modelos](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T5.ipynb)
 
-* [Modelos Sequencias com PyTorch](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [Modelos Sequencias com PyTorch](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T6.ipynb)
 
-* [Modelos Autoencoder](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [Modelos Autoencoder](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T7.ipynb)
 
-* [Aplicações e outros modelos de Deep Learning](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+* [Aplicações e outros modelos de Deep Learning](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T8.ipynb)
